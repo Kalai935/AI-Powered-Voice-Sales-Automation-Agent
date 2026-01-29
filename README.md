@@ -207,7 +207,8 @@ This project is intended for **legitimate business communication only**. Ensure 
 
 ## 👩‍💼 Author
 
-**Built for Hogest Technologies, Chennai**  
-Voice AI Sales Automation System
+Kalai Muthu
+Computer Science Engineer | AI & Automation Enthusiast
+📍 Chennai, India
 
 ---
